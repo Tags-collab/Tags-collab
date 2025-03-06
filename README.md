@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tags-collab
+- 👋 Hi, I’m @✨AI Jarvis Tags🖥️
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
@@ -7,6 +7,6 @@
 - ⚡ Fun fact: ...
 
 <!---
-Tags-collab/Tags-collab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨AI Jarvis Tags🖥️/✨AI Jarvis Tags🖥️ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
